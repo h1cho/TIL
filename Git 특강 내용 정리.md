@@ -1,14 +1,12 @@
-# Git
+# Git 특강 내용 정리
+22.12.22 특강
 
 ## Why Git & Github?
 1. Git을 이용한 버전관리
 2. Github를 이용한 포트폴리오 관리
 
 
-## CLI
-1. CLI란?
-2. CLI와 GUI
-3. 명령어
+## CLI 명령어
    - touch : 파일을 생성
    - mkdir : 폴더를 생성 (make directory)
    - ls : 해당 위치에 있는 파일/폴더 목록 보여줌
